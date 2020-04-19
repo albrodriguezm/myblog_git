@@ -9,3 +9,10 @@ img {
     height: 200px;
     float: right;
 }
+
+.articulo {
+    width: 100%;
+    background-color: chocolate;
+    height: 300px;
+    text-align: center;
+}
