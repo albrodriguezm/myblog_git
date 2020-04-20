@@ -1,7 +1,18 @@
+body {
+    background-color: darkgrey;
+}
+
 .heard-logo {
     width: 0 auto;
     height: 200px;
     background-color: aqua;
+}
+
+.heard-logo h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 10px;
 }
 
 img {
@@ -15,4 +26,28 @@ img {
     background-color: chocolate;
     height: 300px;
     text-align: center;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.notas {
+    width: 45%;
+    float: left;
+    margin: 10px;
+}
+
+.notas p {
+    text-align: justify;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 19px;
+}
+
+.articulo h2 {
+    margin: 0 auto;
+    padding-top: 10px;
+    text-transform: uppercase;
+    font-size: 40px;
+    color: turquoise;
+    border-bottom: 2px solid whitesmoke;
 }
