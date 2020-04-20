@@ -1,3 +1,37 @@
+.contenedor {
+    width: 95%;
+}
+
+.logo {
+    text-align: left;
+    margin: 0 auto;
+}
+
+.logo h2 {
+    text-transform: uppercase;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0 auto;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    background-color: crimson;
+    text-transform: uppercase;
+    padding: 10px;
+    margin: 0 auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+a:hover {
+    color: black;
+    background-color: yellowgreen;
+}
+
+.barra {
+    text-align: right;
+}
+
 .heard-logo {
     width: 0 auto;
     height: 200px;
