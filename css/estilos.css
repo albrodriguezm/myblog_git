@@ -28,6 +28,11 @@ a:hover {
     background-color: yellowgreen;
 }
 
+.navegaciono {
+    background-color: antiquewhite;
+    height: 60px;
+}
+
 .barra {
     text-align: right;
 }
