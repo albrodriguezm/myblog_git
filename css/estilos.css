@@ -101,3 +101,9 @@ img {
     color: turquoise;
     border-bottom: 2px solid whitesmoke;
 }
+
+footer {
+    background-color: dimgrey;
+    text-align: center;
+    padding: 20px;
+}
