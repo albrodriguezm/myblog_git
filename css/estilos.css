@@ -1,5 +1,15 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
 body {
-    background-color: rgb(184, 175, 175);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .contenedor {
@@ -7,23 +17,24 @@ body {
 }
 
 .logo {
-    text-align: left;
-    margin: 0 auto;
+    float: right;
+    display: inline-block;
 }
 
 .logo h2 {
     text-transform: uppercase;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    margin: 0 auto;
+    margin-top: 20px;
 }
 
 a {
     color: white;
+    display: inline-block;
+    text-align: center;
     text-decoration: none;
     background-color: crimson;
     text-transform: uppercase;
-    padding: 10px;
-    margin: 0 auto;
+    padding: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
@@ -38,7 +49,7 @@ a:hover {
 }
 
 .barra {
-    text-align: right;
+    overflow: hidden;
 }
 
 .heard-logo {
