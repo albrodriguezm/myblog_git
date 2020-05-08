@@ -6,6 +6,7 @@ Se agrega juan jose al desarrollo como colaborador  para el desarrollo
 
 ----2020---
 Experimento 1
+ experimento 2
 
 Master 1 para probar git rebase
 
