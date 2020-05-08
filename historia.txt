@@ -6,5 +6,8 @@ Se agrega juan jose al desarrollo como colaborador  para el desarrollo
 
 ----2020---
 
+Master 1 para probar git rebase
 
 Hablaremos de su historia laboral y su trayectora 
+
+
